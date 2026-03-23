@@ -88,7 +88,7 @@ This project solves these issues by creating a **single source of truth dashboar
 
 > Add your screenshots here
 
-![Home Page](Home Page.jpg)
+![Home Page](images/Home Page.jpg)
 
 ---
 
