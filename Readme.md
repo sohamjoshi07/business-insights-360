@@ -88,13 +88,13 @@ This project solves these issues by creating a **single source of truth dashboar
 
 > Add your screenshots here
 
-![Dashboard](dashboard.png)
+![Home Page](Home Page.jpg)
 
 ---
 
 ## 🔗 Live Dashboard
 
-👉 https://your-powerbi-link
+👉 https://app.powerbi.com/view?r=eyJrIjoiNGUwNjg3NWYtMjA0OC00MTY0LThmNjUtODZmMTM4ZDA0OGExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ---
 
