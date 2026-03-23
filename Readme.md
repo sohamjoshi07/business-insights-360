@@ -84,14 +84,6 @@ This project solves these issues by creating a **single source of truth dashboar
 
 ---
 
-## 📸 Dashboard Preview
-
-> Add your screenshots here
-
-![Home Page](images/Home Page.jpg)
-
----
-
 ## 🔗 Live Dashboard
 
 👉 https://app.powerbi.com/view?r=eyJrIjoiNGUwNjg3NWYtMjA0OC00MTY0LThmNjUtODZmMTM4ZDA0OGExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
